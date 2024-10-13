@@ -31,4 +31,3 @@ assert(mux false false false true false true = false);;
 assert(mux false true false true false true = true);;
 assert(mux true false false true false true = false);;
 assert(mux true true false true false true = true);;
-
